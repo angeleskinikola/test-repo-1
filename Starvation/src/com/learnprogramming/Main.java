@@ -1,4 +1,4 @@
-package com.learnprogramming;
+package Starvation.src.com.learnprogramming;
 
 import java.util.concurrent.locks.ReentrantLock;
 
